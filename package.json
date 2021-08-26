@@ -1,0 +1,30 @@
+{
+  "name": "first_act",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirc54/first_act.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "express",
+    "nodejs"
+  ],
+  "author": "Samuel RC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirc54/first_act/issues"
+  },
+  "homepage": "https://github.com/samirc54/first_act#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
